@@ -163,6 +163,8 @@ nav a {
     transition:
         0.3s;
 }
+
+
 nav a:hover,
 
 nav a.active {
@@ -182,6 +184,8 @@ nav a.active {
         0 0 15px
 
         rgba(0, 229, 255, 0.15);
+
+}
 
 
 
