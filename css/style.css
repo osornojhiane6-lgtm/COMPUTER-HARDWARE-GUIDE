@@ -1,4 +1,3 @@
-sashn
 
 /* =========================================
    COMPUTER HARDWARE GUIDE
@@ -164,7 +163,25 @@ nav a {
     transition:
         0.3s;
 }
+nav a:hover,
 
+nav a.active {
+
+    color: #00e5ff;
+
+    border-color:
+
+        #00e5ff;
+
+    background:
+
+        rgba(0, 229, 255, 0.08);
+
+    box-shadow:
+
+        0 0 15px
+
+        rgba(0, 229, 255, 0.15);
 
 
 
